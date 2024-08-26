@@ -1,0 +1,12 @@
+$custom-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "card-bg": $card-bg,
+  "gray": $gray,
+  "quill-grey": $quill-grey,
+  "bright-grey": $bright-grey,
+  "secondary-gray": $secondary-gray,
+  "filter-color": $filter-color,
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);

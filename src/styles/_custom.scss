@@ -1,0 +1,59 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+.pagination {
+  .page-item {
+    &.active {
+      .page-link {
+        background-color: #007bff;
+        color: white;
+        border: 1px solid #007bff;
+      }
+      &:hover .page-link {
+        background-color: darken(#007bff, 10%);
+        border-color: darken(#007bff, 10%);
+      }
+    }
+  }
+}
+
+.row > * {
+  padding-right: 10.5px;
+  padding-left: 10.5px;
+}
+
+.btn-secondary {
+  border-color: $quill-grey;
+  color: $bright-grey;
+}
+.btn {
+  padding: $btn-padding-y $btn-padding-x;
+}
+
+.image-wrapper {
+  background-color: $card-bg;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    aspect-ratio: 0.94;
+    width: 232px;
+  }
+}
+.fs-18 {
+  font-size: 1.125rem;
+  line-height: 1.361rem;
+}
+.fs-14 {
+  font-size: 0.875rem;
+  line-height: 1.059rem;
+}
+.form-label {
+  margin-bottom: 1.813rem;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+.form-control {
+  width: 75px;
+  height: 40px;
+  font-size: 0.875rem;
+}

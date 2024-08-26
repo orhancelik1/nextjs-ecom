@@ -1,0 +1,2302 @@
+[
+  {
+    "id": 1,
+    "productName": "Zoom Runner",
+    "price": 796.81,
+    "ratingCount": 737,
+    "rating": 1.5,
+    "category": "Outdoor",
+    "brand": "Hummel",
+    "availableSizes": [44, 41, 45, 39]
+  },
+  {
+    "id": 2,
+    "productName": "Elite Trainer",
+    "price": 857.3,
+    "ratingCount": 701,
+    "rating": 4.5,
+    "category": "Woman",
+    "brand": "Jacek & Co",
+    "availableSizes": [44, 38, 43, 39, 45, 40]
+  },
+  {
+    "id": 3,
+    "productName": "Speed Shoe",
+    "price": 915.54,
+    "ratingCount": 554,
+    "rating": 1.5,
+    "category": "Sport",
+    "brand": "Lumberjack",
+    "availableSizes": [39, 43, 44, 45, 41, 40, 38]
+  },
+  {
+    "id": 4,
+    "productName": "Elite Slip-On",
+    "price": 567.0,
+    "ratingCount": 468,
+    "rating": 4,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [41, 45, 40, 38, 43, 42, 44, 39]
+  },
+  {
+    "id": 5,
+    "productName": "Elite Trainer",
+    "price": 407.48,
+    "ratingCount": 101,
+    "rating": 4.5,
+    "category": "Man",
+    "brand": "Florida Foxx",
+    "availableSizes": [39, 40, 43, 41, 42, 44]
+  },
+  {
+    "id": 6,
+    "productName": "Comfort Trainer",
+    "price": 512.28,
+    "ratingCount": 119,
+    "rating": 1,
+    "category": "Woman",
+    "brand": "Hummel",
+    "availableSizes": [45, 39, 38, 42, 40]
+  },
+  {
+    "id": 7,
+    "productName": "Pro Slip-On",
+    "price": 796.56,
+    "ratingCount": 384,
+    "rating": 3,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [39, 43, 42, 44, 40, 41, 38]
+  },
+  {
+    "id": 8,
+    "productName": "Track Slip-On",
+    "price": 679.46,
+    "ratingCount": 102,
+    "rating": 2,
+    "category": "Go Walk",
+    "brand": "My Shooed",
+    "availableSizes": [43, 39, 44, 42, 45, 40, 41]
+  },
+  {
+    "id": 9,
+    "productName": "Elite Runner",
+    "price": 975.28,
+    "ratingCount": 424,
+    "rating": 1,
+    "category": "Woman",
+    "brand": "My Shooed",
+    "availableSizes": [42, 40, 38, 41, 39]
+  },
+  {
+    "id": 10,
+    "productName": "Cloud Slip-On",
+    "price": 531.83,
+    "ratingCount": 871,
+    "rating": 4,
+    "category": "Man",
+    "brand": "Adidas",
+    "availableSizes": [39, 41, 45, 40]
+  },
+  {
+    "id": 11,
+    "productName": "Ultra Sneaker",
+    "price": 528.26,
+    "ratingCount": 396,
+    "rating": 3,
+    "category": "Rainbow",
+    "brand": "My Shooed",
+    "availableSizes": [40, 45, 42, 39, 38, 44]
+  },
+  {
+    "id": 12,
+    "productName": "Runner Shoe",
+    "price": 436.16,
+    "ratingCount": 887,
+    "rating": 2.5,
+    "category": "Go Walk",
+    "brand": "Hummel",
+    "availableSizes": [41, 40, 42, 44, 43, 45, 38]
+  },
+  {
+    "id": 13,
+    "productName": "Speed Trainer",
+    "price": 277.0,
+    "ratingCount": 851,
+    "rating": 2.5,
+    "category": "Outdoor",
+    "brand": "Florida Foxx",
+    "availableSizes": [40, 42, 38, 45, 41, 43]
+  },
+  {
+    "id": 14,
+    "productName": "Cloud Hiker",
+    "price": 937.13,
+    "ratingCount": 979,
+    "rating": 2,
+    "category": "Man",
+    "brand": "My Shooed",
+    "availableSizes": [43, 39, 42, 40, 41]
+  },
+  {
+    "id": 15,
+    "productName": "Elite Trainer",
+    "price": 278.02,
+    "ratingCount": 250,
+    "rating": 3,
+    "category": "Go Walk",
+    "brand": "Adidas",
+    "availableSizes": [45, 44, 38, 42, 39]
+  },
+  {
+    "id": 16,
+    "productName": "Elite Loafer",
+    "price": 552.05,
+    "ratingCount": 192,
+    "rating": 1,
+    "category": "Sport",
+    "brand": "Florida Foxx",
+    "availableSizes": [39, 40, 44, 43, 42, 38, 45]
+  },
+  {
+    "id": 17,
+    "productName": "Runner Slip-On",
+    "price": 386.84,
+    "ratingCount": 451,
+    "rating": 1,
+    "category": "Go Walk",
+    "brand": "Adidas",
+    "availableSizes": [40, 45, 39, 44, 42, 43, 38]
+  },
+  {
+    "id": 18,
+    "productName": "Cloud Hiker",
+    "price": 263.49,
+    "ratingCount": 81,
+    "rating": 3.5,
+    "category": "Rainbow",
+    "brand": "Jacek & Co",
+    "availableSizes": [45, 39, 43, 40, 44, 41, 38, 42]
+  },
+  {
+    "id": 19,
+    "productName": "Runner Trainer",
+    "price": 416.16,
+    "ratingCount": 860,
+    "rating": 2.5,
+    "category": "Go Walk",
+    "brand": "Lumberjack",
+    "availableSizes": [44, 45, 38, 39, 40, 43]
+  },
+  {
+    "id": 20,
+    "productName": "Elite Sneaker",
+    "price": 772.99,
+    "ratingCount": 836,
+    "rating": 1.5,
+    "category": "Go Walk",
+    "brand": "Nike",
+    "availableSizes": [42, 39, 45, 41, 44, 40, 43]
+  },
+  {
+    "id": 21,
+    "productName": "Cloud Trainer",
+    "price": 743.67,
+    "ratingCount": 370,
+    "rating": 1,
+    "category": "Rainbow",
+    "brand": "Adidas",
+    "availableSizes": [38, 40, 39, 41, 44, 43, 45, 42]
+  },
+  {
+    "id": 22,
+    "productName": "Zoom Loafer",
+    "price": 799.25,
+    "ratingCount": 959,
+    "rating": 5,
+    "category": "Man",
+    "brand": "My Shooed",
+    "availableSizes": [38, 42, 41, 44, 39, 45, 43, 40]
+  },
+  {
+    "id": 23,
+    "productName": "Runner Shoe",
+    "price": 643.08,
+    "ratingCount": 412,
+    "rating": 4.5,
+    "category": "Outdoor",
+    "brand": "Nike",
+    "availableSizes": [40, 38, 41, 42]
+  },
+  {
+    "id": 24,
+    "productName": "Zoom Sneaker",
+    "price": 947.99,
+    "ratingCount": 15,
+    "rating": 4.5,
+    "category": "Outdoor",
+    "brand": "Hummel",
+    "availableSizes": [45, 40, 42, 38, 41]
+  },
+  {
+    "id": 25,
+    "productName": "Zoom Slip-On",
+    "price": 291.03,
+    "ratingCount": 309,
+    "rating": 4.5,
+    "category": "Casual",
+    "brand": "Adidas",
+    "availableSizes": [44, 45, 41, 39, 40, 38, 43]
+  },
+  {
+    "id": 26,
+    "productName": "Track Slip-On",
+    "price": 456.78,
+    "ratingCount": 189,
+    "rating": 1,
+    "category": "Man",
+    "brand": "Nick",
+    "availableSizes": [44, 38, 45]
+  },
+  {
+    "id": 27,
+    "productName": "Track Trainer",
+    "price": 654.88,
+    "ratingCount": 305,
+    "rating": 3,
+    "category": "Sport",
+    "brand": "Hummel",
+    "availableSizes": [39, 38, 44, 42, 40, 45, 41, 43]
+  },
+  {
+    "id": 28,
+    "productName": "Track Slip-On",
+    "price": 925.05,
+    "ratingCount": 428,
+    "rating": 2.5,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [45, 42, 40]
+  },
+  {
+    "id": 29,
+    "productName": "Pro Sneaker",
+    "price": 912.22,
+    "ratingCount": 48,
+    "rating": 4.5,
+    "category": "Woman",
+    "brand": "Nike",
+    "availableSizes": [40, 41, 45, 38, 39, 44]
+  },
+  {
+    "id": 30,
+    "productName": "Cloud Trainer",
+    "price": 466.82,
+    "ratingCount": 541,
+    "rating": 4.5,
+    "category": "Sport",
+    "brand": "My Shooed",
+    "availableSizes": [40, 45, 39, 41, 44, 43, 38]
+  },
+  {
+    "id": 31,
+    "productName": "Zoom Shoe",
+    "price": 981.37,
+    "ratingCount": 178,
+    "rating": 2,
+    "category": "Sport",
+    "brand": "My Shooed",
+    "availableSizes": [39, 44, 38, 43, 41, 45]
+  },
+  {
+    "id": 32,
+    "productName": "Speed Loafer",
+    "price": 639.08,
+    "ratingCount": 941,
+    "rating": 4,
+    "category": "Outdoor",
+    "brand": "Nike",
+    "availableSizes": [39, 42, 45, 40, 38, 44, 43, 41]
+  },
+  {
+    "id": 33,
+    "productName": "Ultra Slip-On",
+    "price": 910.89,
+    "ratingCount": 349,
+    "rating": 4,
+    "category": "Casual",
+    "brand": "Nick",
+    "availableSizes": [45, 38, 42, 39, 44, 40, 43]
+  },
+  {
+    "id": 34,
+    "productName": "Ultra Hiker",
+    "price": 692.71,
+    "ratingCount": 621,
+    "rating": 2,
+    "category": "Man",
+    "brand": "Hummel",
+    "availableSizes": [45, 38, 39, 40, 42]
+  },
+  {
+    "id": 35,
+    "productName": "Speed Loafer",
+    "price": 744.59,
+    "ratingCount": 754,
+    "rating": 3.5,
+    "category": "Kid",
+    "brand": "My Shooed",
+    "availableSizes": [45, 40, 44]
+  },
+  {
+    "id": 36,
+    "productName": "Elite Runner",
+    "price": 380.24,
+    "ratingCount": 518,
+    "rating": 1.5,
+    "category": "Go Walk",
+    "brand": "Adidas",
+    "availableSizes": [45, 44, 38]
+  },
+  {
+    "id": 37,
+    "productName": "Ultra Shoe",
+    "price": 902.77,
+    "ratingCount": 380,
+    "rating": 2,
+    "category": "Woman",
+    "brand": "Hummel",
+    "availableSizes": [39, 40, 43, 45, 44, 42]
+  },
+  {
+    "id": 38,
+    "productName": "Cloud Hiker",
+    "price": 771.45,
+    "ratingCount": 808,
+    "rating": 4,
+    "category": "Casual",
+    "brand": "Jacek & Co",
+    "availableSizes": [40, 45, 39, 42, 44, 43]
+  },
+  {
+    "id": 39,
+    "productName": "Pro Shoe",
+    "price": 771.49,
+    "ratingCount": 892,
+    "rating": 2.5,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [43, 44, 38, 42, 41]
+  },
+  {
+    "id": 40,
+    "productName": "Zoom Trainer",
+    "price": 777.54,
+    "ratingCount": 150,
+    "rating": 2.5,
+    "category": "Sport",
+    "brand": "Hummel",
+    "availableSizes": [42, 44, 43, 39, 45, 41, 38]
+  },
+  {
+    "id": 41,
+    "productName": "Track Trainer",
+    "price": 311.33,
+    "ratingCount": 136,
+    "rating": 3.5,
+    "category": "Man",
+    "brand": "Jacek & Co",
+    "availableSizes": [39, 41, 38, 45, 44, 43, 42]
+  },
+  {
+    "id": 42,
+    "productName": "Zoom Hiker",
+    "price": 862.38,
+    "ratingCount": 58,
+    "rating": 1.5,
+    "category": "Casual",
+    "brand": "My Shooed",
+    "availableSizes": [44, 40, 42, 38, 45, 43, 39, 41]
+  },
+  {
+    "id": 43,
+    "productName": "Comfort Slip-On",
+    "price": 949.0,
+    "ratingCount": 824,
+    "rating": 1.5,
+    "category": "Kid",
+    "brand": "Nike",
+    "availableSizes": [41, 44, 39, 38, 40, 42, 43, 45]
+  },
+  {
+    "id": 44,
+    "productName": "Track Loafer",
+    "price": 486.47,
+    "ratingCount": 825,
+    "rating": 2,
+    "category": "Sport",
+    "brand": "Nike",
+    "availableSizes": [43, 39, 41, 45, 38, 40, 42]
+  },
+  {
+    "id": 45,
+    "productName": "Cloud Sneaker",
+    "price": 848.16,
+    "ratingCount": 412,
+    "rating": 2,
+    "category": "Woman",
+    "brand": "Lumberjack",
+    "availableSizes": [43, 40, 41]
+  },
+  {
+    "id": 46,
+    "productName": "Ultra Hiker",
+    "price": 215.29,
+    "ratingCount": 587,
+    "rating": 1.5,
+    "category": "Sport",
+    "brand": "Hummel",
+    "availableSizes": [41, 42, 44, 40, 43]
+  },
+  {
+    "id": 47,
+    "productName": "Elite Trainer",
+    "price": 783.9,
+    "ratingCount": 285,
+    "rating": 2.5,
+    "category": "Casual",
+    "brand": "Adidas",
+    "availableSizes": [38, 45, 40, 39]
+  },
+  {
+    "id": 48,
+    "productName": "Ultra Sneaker",
+    "price": 968.58,
+    "ratingCount": 387,
+    "rating": 5,
+    "category": "Man",
+    "brand": "Hummel",
+    "availableSizes": [41, 39, 44, 42, 40]
+  },
+  {
+    "id": 49,
+    "productName": "Elite Trainer",
+    "price": 922.25,
+    "ratingCount": 253,
+    "rating": 1,
+    "category": "Outdoor",
+    "brand": "Florida Foxx",
+    "availableSizes": [38, 44, 41]
+  },
+  {
+    "id": 50,
+    "productName": "Speed Shoe",
+    "price": 216.66,
+    "ratingCount": 932,
+    "rating": 4,
+    "category": "Sport",
+    "brand": "My Shooed",
+    "availableSizes": [39, 42, 40]
+  },
+  {
+    "id": 51,
+    "productName": "Pro Slip-On",
+    "price": 849.96,
+    "ratingCount": 961,
+    "rating": 4,
+    "category": "Man",
+    "brand": "Nick",
+    "availableSizes": [42, 43, 44, 45, 38, 41]
+  },
+  {
+    "id": 52,
+    "productName": "Pro Runner",
+    "price": 959.73,
+    "ratingCount": 261,
+    "rating": 4.5,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [40, 43, 45, 38, 44, 39, 41, 42]
+  },
+  {
+    "id": 53,
+    "productName": "Comfort Sneaker",
+    "price": 241.19,
+    "ratingCount": 110,
+    "rating": 1.5,
+    "category": "Woman",
+    "brand": "My Shooed",
+    "availableSizes": [39, 43, 38, 42, 45, 44, 41, 40]
+  },
+  {
+    "id": 54,
+    "productName": "Zoom Hiker",
+    "price": 252.61,
+    "ratingCount": 857,
+    "rating": 3,
+    "category": "Outdoor",
+    "brand": "Nick",
+    "availableSizes": [39, 43, 41, 44, 40, 42]
+  },
+  {
+    "id": 55,
+    "productName": "Comfort Loafer",
+    "price": 274.29,
+    "ratingCount": 149,
+    "rating": 1.5,
+    "category": "Kid",
+    "brand": "Florida Foxx",
+    "availableSizes": [39, 41, 44, 43, 38, 45]
+  },
+  {
+    "id": 56,
+    "productName": "Zoom Shoe",
+    "price": 569.72,
+    "ratingCount": 551,
+    "rating": 1.5,
+    "category": "Kid",
+    "brand": "Nike",
+    "availableSizes": [44, 40, 39]
+  },
+  {
+    "id": 57,
+    "productName": "Elite Slip-On",
+    "price": 584.94,
+    "ratingCount": 490,
+    "rating": 5,
+    "category": "Sport",
+    "brand": "Florida Foxx",
+    "availableSizes": [38, 43, 44, 39, 40]
+  },
+  {
+    "id": 58,
+    "productName": "Comfort Runner",
+    "price": 261.89,
+    "ratingCount": 890,
+    "rating": 5,
+    "category": "Outdoor",
+    "brand": "Nick",
+    "availableSizes": [44, 43, 40, 41, 38]
+  },
+  {
+    "id": 59,
+    "productName": "Comfort Runner",
+    "price": 206.31,
+    "ratingCount": 564,
+    "rating": 1.5,
+    "category": "Kid",
+    "brand": "Nike",
+    "availableSizes": [40, 45, 42, 41]
+  },
+  {
+    "id": 60,
+    "productName": "Elite Hiker",
+    "price": 234.23,
+    "ratingCount": 790,
+    "rating": 2,
+    "category": "Rainbow",
+    "brand": "Hummel",
+    "availableSizes": [41, 38, 40, 43, 39, 42, 44]
+  },
+  {
+    "id": 61,
+    "productName": "Track Sneaker",
+    "price": 545.72,
+    "ratingCount": 320,
+    "rating": 2,
+    "category": "Casual",
+    "brand": "Florida Foxx",
+    "availableSizes": [41, 43, 45, 39, 44]
+  },
+  {
+    "id": 62,
+    "productName": "Comfort Loafer",
+    "price": 632.84,
+    "ratingCount": 74,
+    "rating": 1.5,
+    "category": "Casual",
+    "brand": "Adidas",
+    "availableSizes": [43, 38, 41, 40, 42, 39]
+  },
+  {
+    "id": 63,
+    "productName": "Track Shoe",
+    "price": 434.76,
+    "ratingCount": 364,
+    "rating": 4,
+    "category": "Woman",
+    "brand": "Hummel",
+    "availableSizes": [45, 44, 43, 40, 38, 42, 39]
+  },
+  {
+    "id": 64,
+    "productName": "Track Loafer",
+    "price": 507.42,
+    "ratingCount": 504,
+    "rating": 1.5,
+    "category": "Sport",
+    "brand": "Jacek & Co",
+    "availableSizes": [41, 39, 43]
+  },
+  {
+    "id": 65,
+    "productName": "Speed Sneaker",
+    "price": 568.49,
+    "ratingCount": 254,
+    "rating": 4,
+    "category": "Rainbow",
+    "brand": "Jacek & Co",
+    "availableSizes": [39, 38, 44, 43, 40, 41, 45, 42]
+  },
+  {
+    "id": 66,
+    "productName": "Ultra Runner",
+    "price": 734.41,
+    "ratingCount": 433,
+    "rating": 4.5,
+    "category": "Woman",
+    "brand": "Lumberjack",
+    "availableSizes": [43, 42, 45]
+  },
+  {
+    "id": 67,
+    "productName": "Pro Shoe",
+    "price": 545.3,
+    "ratingCount": 713,
+    "rating": 3,
+    "category": "Casual",
+    "brand": "Jacek & Co",
+    "availableSizes": [44, 40, 41]
+  },
+  {
+    "id": 68,
+    "productName": "Pro Sneaker",
+    "price": 829.53,
+    "ratingCount": 868,
+    "rating": 2,
+    "category": "Kid",
+    "brand": "Adidas",
+    "availableSizes": [44, 40, 45]
+  },
+  {
+    "id": 69,
+    "productName": "Runner Shoe",
+    "price": 363.47,
+    "ratingCount": 998,
+    "rating": 2,
+    "category": "Kid",
+    "brand": "My Shooed",
+    "availableSizes": [40, 45, 38, 41, 39, 42, 43, 44]
+  },
+  {
+    "id": 70,
+    "productName": "Comfort Loafer",
+    "price": 203.07,
+    "ratingCount": 733,
+    "rating": 4.5,
+    "category": "Kid",
+    "brand": "Florida Foxx",
+    "availableSizes": [45, 38, 42, 40, 41]
+  },
+  {
+    "id": 71,
+    "productName": "Comfort Loafer",
+    "price": 798.67,
+    "ratingCount": 106,
+    "rating": 3,
+    "category": "Kid",
+    "brand": "Nick",
+    "availableSizes": [42, 44, 45, 39, 40]
+  },
+  {
+    "id": 72,
+    "productName": "Elite Loafer",
+    "price": 312.27,
+    "ratingCount": 389,
+    "rating": 4.5,
+    "category": "Kid",
+    "brand": "Jacek & Co",
+    "availableSizes": [43, 42, 41, 40, 38]
+  },
+  {
+    "id": 73,
+    "productName": "Comfort Slip-On",
+    "price": 716.47,
+    "ratingCount": 737,
+    "rating": 3,
+    "category": "Man",
+    "brand": "Nick",
+    "availableSizes": [43, 42, 39, 40, 44, 41, 45, 38]
+  },
+  {
+    "id": 74,
+    "productName": "Track Runner",
+    "price": 631.56,
+    "ratingCount": 586,
+    "rating": 3.5,
+    "category": "Go Walk",
+    "brand": "My Shooed",
+    "availableSizes": [42, 40, 44, 43]
+  },
+  {
+    "id": 75,
+    "productName": "Cloud Trainer",
+    "price": 246.61,
+    "ratingCount": 821,
+    "rating": 3.5,
+    "category": "Kid",
+    "brand": "Adidas",
+    "availableSizes": [39, 40, 45, 44]
+  },
+  {
+    "id": 76,
+    "productName": "Ultra Trainer",
+    "price": 967.97,
+    "ratingCount": 450,
+    "rating": 1.5,
+    "category": "Outdoor",
+    "brand": "Florida Foxx",
+    "availableSizes": [38, 41, 45]
+  },
+  {
+    "id": 77,
+    "productName": "Ultra Hiker",
+    "price": 458.63,
+    "ratingCount": 505,
+    "rating": 3.5,
+    "category": "Rainbow",
+    "brand": "Jacek & Co",
+    "availableSizes": [41, 43, 45, 40, 42, 38, 44, 39]
+  },
+  {
+    "id": 78,
+    "productName": "Speed Runner",
+    "price": 872.43,
+    "ratingCount": 67,
+    "rating": 1,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [38, 44, 45, 39, 41, 42]
+  },
+  {
+    "id": 79,
+    "productName": "Cloud Slip-On",
+    "price": 526.16,
+    "ratingCount": 545,
+    "rating": 2,
+    "category": "Rainbow",
+    "brand": "Hummel",
+    "availableSizes": [41, 43, 42]
+  },
+  {
+    "id": 80,
+    "productName": "Zoom Sneaker",
+    "price": 851.75,
+    "ratingCount": 872,
+    "rating": 3,
+    "category": "Outdoor",
+    "brand": "Nick",
+    "availableSizes": [40, 41, 44, 42, 38, 39, 43]
+  },
+  {
+    "id": 81,
+    "productName": "Speed Trainer",
+    "price": 687.58,
+    "ratingCount": 225,
+    "rating": 3.5,
+    "category": "Rainbow",
+    "brand": "Florida Foxx",
+    "availableSizes": [43, 39, 44, 38, 42, 45]
+  },
+  {
+    "id": 82,
+    "productName": "Zoom Hiker",
+    "price": 616.39,
+    "ratingCount": 288,
+    "rating": 4.5,
+    "category": "Kid",
+    "brand": "Jacek & Co",
+    "availableSizes": [44, 42, 40, 45, 38, 43]
+  },
+  {
+    "id": 83,
+    "productName": "Ultra Sneaker",
+    "price": 834.18,
+    "ratingCount": 528,
+    "rating": 1.5,
+    "category": "Man",
+    "brand": "Florida Foxx",
+    "availableSizes": [38, 39, 40]
+  },
+  {
+    "id": 84,
+    "productName": "Elite Hiker",
+    "price": 805.21,
+    "ratingCount": 902,
+    "rating": 4.5,
+    "category": "Go Walk",
+    "brand": "Nike",
+    "availableSizes": [44, 39, 38, 41, 40, 45, 43, 42]
+  },
+  {
+    "id": 85,
+    "productName": "Cloud Trainer",
+    "price": 852.83,
+    "ratingCount": 702,
+    "rating": 1,
+    "category": "Casual",
+    "brand": "Florida Foxx",
+    "availableSizes": [44, 38, 39]
+  },
+  {
+    "id": 86,
+    "productName": "Track Loafer",
+    "price": 786.07,
+    "ratingCount": 202,
+    "rating": 1.5,
+    "category": "Kid",
+    "brand": "Nick",
+    "availableSizes": [41, 43, 44, 38, 42]
+  },
+  {
+    "id": 87,
+    "productName": "Cloud Slip-On",
+    "price": 338.46,
+    "ratingCount": 566,
+    "rating": 5,
+    "category": "Kid",
+    "brand": "Florida Foxx",
+    "availableSizes": [41, 42, 38, 45]
+  },
+  {
+    "id": 88,
+    "productName": "Zoom Hiker",
+    "price": 299.78,
+    "ratingCount": 88,
+    "rating": 3,
+    "category": "Go Walk",
+    "brand": "Florida Foxx",
+    "availableSizes": [38, 44, 43]
+  },
+  {
+    "id": 89,
+    "productName": "Elite Slip-On",
+    "price": 375.48,
+    "ratingCount": 337,
+    "rating": 2.5,
+    "category": "Casual",
+    "brand": "My Shooed",
+    "availableSizes": [41, 39, 43]
+  },
+  {
+    "id": 90,
+    "productName": "Ultra Runner",
+    "price": 889.84,
+    "ratingCount": 382,
+    "rating": 1,
+    "category": "Go Walk",
+    "brand": "Lumberjack",
+    "availableSizes": [43, 44, 39, 45]
+  },
+  {
+    "id": 91,
+    "productName": "Track Trainer",
+    "price": 629.09,
+    "ratingCount": 765,
+    "rating": 3,
+    "category": "Go Walk",
+    "brand": "My Shooed",
+    "availableSizes": [40, 44, 45, 41]
+  },
+  {
+    "id": 92,
+    "productName": "Comfort Loafer",
+    "price": 675.27,
+    "ratingCount": 708,
+    "rating": 1,
+    "category": "Man",
+    "brand": "Hummel",
+    "availableSizes": [45, 42, 40, 41, 39, 44, 43]
+  },
+  {
+    "id": 93,
+    "productName": "Zoom Sneaker",
+    "price": 325.5,
+    "ratingCount": 209,
+    "rating": 3.5,
+    "category": "Kid",
+    "brand": "Hummel",
+    "availableSizes": [41, 40, 45, 38, 43, 44, 42]
+  },
+  {
+    "id": 94,
+    "productName": "Track Runner",
+    "price": 274.38,
+    "ratingCount": 202,
+    "rating": 1.5,
+    "category": "Outdoor",
+    "brand": "Adidas",
+    "availableSizes": [42, 44, 43, 45, 40, 39, 38, 41]
+  },
+  {
+    "id": 95,
+    "productName": "Speed Shoe",
+    "price": 971.95,
+    "ratingCount": 372,
+    "rating": 3,
+    "category": "Sport",
+    "brand": "Jacek & Co",
+    "availableSizes": [38, 42, 44, 40]
+  },
+  {
+    "id": 96,
+    "productName": "Speed Loafer",
+    "price": 335.81,
+    "ratingCount": 735,
+    "rating": 1,
+    "category": "Man",
+    "brand": "Florida Foxx",
+    "availableSizes": [45, 41, 43, 42]
+  },
+  {
+    "id": 97,
+    "productName": "Ultra Runner",
+    "price": 610.43,
+    "ratingCount": 143,
+    "rating": 5,
+    "category": "Sport",
+    "brand": "My Shooed",
+    "availableSizes": [44, 41, 42, 39, 43, 45, 38, 40]
+  },
+  {
+    "id": 98,
+    "productName": "Ultra Hiker",
+    "price": 679.82,
+    "ratingCount": 750,
+    "rating": 1,
+    "category": "Rainbow",
+    "brand": "Nick",
+    "availableSizes": [44, 40, 38, 39, 42]
+  },
+  {
+    "id": 99,
+    "productName": "Elite Sneaker",
+    "price": 531.15,
+    "ratingCount": 768,
+    "rating": 1.5,
+    "category": "Casual",
+    "brand": "Hummel",
+    "availableSizes": [38, 44, 41]
+  },
+  {
+    "id": 100,
+    "productName": "Runner Slip-On",
+    "price": 974.31,
+    "ratingCount": 380,
+    "rating": 1.5,
+    "category": "Casual",
+    "brand": "Hummel",
+    "availableSizes": [45, 40, 41, 39, 38, 42, 43, 44]
+  },
+  {
+    "id": 101,
+    "productName": "Runner Loafer",
+    "price": 398.16,
+    "ratingCount": 165,
+    "rating": 3.5,
+    "category": "Rainbow",
+    "brand": "My Shooed",
+    "availableSizes": [43, 45, 38, 42, 39]
+  },
+  {
+    "id": 102,
+    "productName": "Cloud Shoe",
+    "price": 614.34,
+    "ratingCount": 142,
+    "rating": 5,
+    "category": "Rainbow",
+    "brand": "Adidas",
+    "availableSizes": [42, 43, 45, 39, 41]
+  },
+  {
+    "id": 103,
+    "productName": "Elite Trainer",
+    "price": 635.15,
+    "ratingCount": 122,
+    "rating": 1.5,
+    "category": "Rainbow",
+    "brand": "Hummel",
+    "availableSizes": [38, 41, 42, 45, 44, 43]
+  },
+  {
+    "id": 104,
+    "productName": "Pro Runner",
+    "price": 419.59,
+    "ratingCount": 860,
+    "rating": 3.5,
+    "category": "Man",
+    "brand": "Nick",
+    "availableSizes": [43, 41, 39, 40, 45, 42, 38]
+  },
+  {
+    "id": 105,
+    "productName": "Cloud Sneaker",
+    "price": 448.91,
+    "ratingCount": 983,
+    "rating": 1.5,
+    "category": "Outdoor",
+    "brand": "My Shooed",
+    "availableSizes": [43, 40, 45]
+  },
+  {
+    "id": 106,
+    "productName": "Elite Slip-On",
+    "price": 679.06,
+    "ratingCount": 820,
+    "rating": 1,
+    "category": "Casual",
+    "brand": "Hummel",
+    "availableSizes": [42, 44, 43, 38, 40, 39, 45, 41]
+  },
+  {
+    "id": 107,
+    "productName": "Runner Slip-On",
+    "price": 529.47,
+    "ratingCount": 287,
+    "rating": 3.5,
+    "category": "Man",
+    "brand": "My Shooed",
+    "availableSizes": [42, 43, 41, 39, 38]
+  },
+  {
+    "id": 108,
+    "productName": "Ultra Sneaker",
+    "price": 436.77,
+    "ratingCount": 395,
+    "rating": 4.5,
+    "category": "Man",
+    "brand": "Hummel",
+    "availableSizes": [41, 44, 39, 40]
+  },
+  {
+    "id": 109,
+    "productName": "Zoom Loafer",
+    "price": 700.65,
+    "ratingCount": 16,
+    "rating": 3,
+    "category": "Casual",
+    "brand": "Adidas",
+    "availableSizes": [38, 41, 40, 42, 45, 39, 44]
+  },
+  {
+    "id": 110,
+    "productName": "Elite Sneaker",
+    "price": 534.68,
+    "ratingCount": 330,
+    "rating": 4,
+    "category": "Man",
+    "brand": "Florida Foxx",
+    "availableSizes": [45, 44, 40, 42, 41, 38]
+  },
+  {
+    "id": 111,
+    "productName": "Zoom Loafer",
+    "price": 966.8,
+    "ratingCount": 510,
+    "rating": 1,
+    "category": "Kid",
+    "brand": "Nick",
+    "availableSizes": [39, 41, 45, 42, 44]
+  },
+  {
+    "id": 112,
+    "productName": "Elite Sneaker",
+    "price": 602.71,
+    "ratingCount": 163,
+    "rating": 1,
+    "category": "Casual",
+    "brand": "Nick",
+    "availableSizes": [45, 40, 43, 44, 42, 41, 39, 38]
+  },
+  {
+    "id": 113,
+    "productName": "Elite Runner",
+    "price": 581.99,
+    "ratingCount": 249,
+    "rating": 1,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [42, 45, 41, 40, 39, 44, 43, 38]
+  },
+  {
+    "id": 114,
+    "productName": "Zoom Loafer",
+    "price": 206.51,
+    "ratingCount": 38,
+    "rating": 2.5,
+    "category": "Outdoor",
+    "brand": "Lumberjack",
+    "availableSizes": [42, 39, 40, 41, 43]
+  },
+  {
+    "id": 115,
+    "productName": "Ultra Slip-On",
+    "price": 682.89,
+    "ratingCount": 697,
+    "rating": 3,
+    "category": "Sport",
+    "brand": "Jacek & Co",
+    "availableSizes": [38, 44, 43, 42, 45, 40, 41, 39]
+  },
+  {
+    "id": 116,
+    "productName": "Track Slip-On",
+    "price": 958.37,
+    "ratingCount": 509,
+    "rating": 2,
+    "category": "Outdoor",
+    "brand": "Lumberjack",
+    "availableSizes": [45, 40, 42, 43, 41, 39]
+  },
+  {
+    "id": 117,
+    "productName": "Pro Trainer",
+    "price": 345.74,
+    "ratingCount": 915,
+    "rating": 3,
+    "category": "Rainbow",
+    "brand": "Lumberjack",
+    "availableSizes": [38, 44, 41, 39, 40, 42, 43]
+  },
+  {
+    "id": 118,
+    "productName": "Pro Trainer",
+    "price": 861.97,
+    "ratingCount": 966,
+    "rating": 3.5,
+    "category": "Outdoor",
+    "brand": "Nick",
+    "availableSizes": [41, 45, 39, 38, 43]
+  },
+  {
+    "id": 119,
+    "productName": "Pro Slip-On",
+    "price": 226.77,
+    "ratingCount": 865,
+    "rating": 5,
+    "category": "Rainbow",
+    "brand": "Nick",
+    "availableSizes": [43, 42, 45, 38, 41, 44, 40]
+  },
+  {
+    "id": 120,
+    "productName": "Cloud Loafer",
+    "price": 857.85,
+    "ratingCount": 193,
+    "rating": 3,
+    "category": "Sport",
+    "brand": "Nick",
+    "availableSizes": [44, 40, 38, 43, 39, 41, 42]
+  },
+  {
+    "id": 121,
+    "productName": "Zoom Sneaker",
+    "price": 869.02,
+    "ratingCount": 540,
+    "rating": 1.5,
+    "category": "Woman",
+    "brand": "My Shooed",
+    "availableSizes": [42, 45, 43, 40, 41, 44, 39, 38]
+  },
+  {
+    "id": 122,
+    "productName": "Speed Slip-On",
+    "price": 307.39,
+    "ratingCount": 628,
+    "rating": 3,
+    "category": "Go Walk",
+    "brand": "Adidas",
+    "availableSizes": [42, 40, 39, 44, 41, 38, 43]
+  },
+  {
+    "id": 123,
+    "productName": "Elite Trainer",
+    "price": 861.25,
+    "ratingCount": 563,
+    "rating": 5,
+    "category": "Rainbow",
+    "brand": "Lumberjack",
+    "availableSizes": [38, 44, 42, 41]
+  },
+  {
+    "id": 124,
+    "productName": "Ultra Shoe",
+    "price": 424.06,
+    "ratingCount": 281,
+    "rating": 4,
+    "category": "Sport",
+    "brand": "Nike",
+    "availableSizes": [45, 39, 38, 44]
+  },
+  {
+    "id": 125,
+    "productName": "Pro Runner",
+    "price": 952.33,
+    "ratingCount": 235,
+    "rating": 3.5,
+    "category": "Rainbow",
+    "brand": "Nike",
+    "availableSizes": [45, 38, 44, 43, 41]
+  },
+  {
+    "id": 126,
+    "productName": "Pro Sneaker",
+    "price": 383.57,
+    "ratingCount": 120,
+    "rating": 3,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [43, 41, 39, 38, 45]
+  },
+  {
+    "id": 127,
+    "productName": "Zoom Sneaker",
+    "price": 977.09,
+    "ratingCount": 168,
+    "rating": 2.5,
+    "category": "Man",
+    "brand": "Nike",
+    "availableSizes": [43, 39, 45, 44, 42]
+  },
+  {
+    "id": 128,
+    "productName": "Ultra Sneaker",
+    "price": 999.7,
+    "ratingCount": 391,
+    "rating": 3.5,
+    "category": "Go Walk",
+    "brand": "Nike",
+    "availableSizes": [45, 38, 43]
+  },
+  {
+    "id": 129,
+    "productName": "Ultra Runner",
+    "price": 347.01,
+    "ratingCount": 460,
+    "rating": 2.5,
+    "category": "Kid",
+    "brand": "Lumberjack",
+    "availableSizes": [43, 41, 39, 42, 44, 40]
+  },
+  {
+    "id": 130,
+    "productName": "Ultra Hiker",
+    "price": 567.22,
+    "ratingCount": 529,
+    "rating": 1.5,
+    "category": "Kid",
+    "brand": "Adidas",
+    "availableSizes": [44, 40, 43, 42, 38, 41, 45]
+  },
+  {
+    "id": 131,
+    "productName": "Cloud Hiker",
+    "price": 705.7,
+    "ratingCount": 25,
+    "rating": 5,
+    "category": "Go Walk",
+    "brand": "Lumberjack",
+    "availableSizes": [44, 39, 45, 41, 42, 38]
+  },
+  {
+    "id": 132,
+    "productName": "Comfort Trainer",
+    "price": 871.25,
+    "ratingCount": 774,
+    "rating": 3.5,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [38, 40, 45, 43, 42, 44]
+  },
+  {
+    "id": 133,
+    "productName": "Elite Runner",
+    "price": 722.91,
+    "ratingCount": 94,
+    "rating": 1,
+    "category": "Go Walk",
+    "brand": "Nike",
+    "availableSizes": [38, 41, 40, 45, 39, 44]
+  },
+  {
+    "id": 134,
+    "productName": "Zoom Sneaker",
+    "price": 728.73,
+    "ratingCount": 286,
+    "rating": 3,
+    "category": "Man",
+    "brand": "My Shooed",
+    "availableSizes": [40, 41, 38, 39, 42, 44, 43]
+  },
+  {
+    "id": 135,
+    "productName": "Pro Slip-On",
+    "price": 816.93,
+    "ratingCount": 89,
+    "rating": 5,
+    "category": "Casual",
+    "brand": "Adidas",
+    "availableSizes": [41, 42, 38, 39, 45]
+  },
+  {
+    "id": 136,
+    "productName": "Cloud Shoe",
+    "price": 681.84,
+    "ratingCount": 627,
+    "rating": 1.5,
+    "category": "Casual",
+    "brand": "Florida Foxx",
+    "availableSizes": [45, 41, 42, 40, 39, 44]
+  },
+  {
+    "id": 137,
+    "productName": "Track Runner",
+    "price": 789.91,
+    "ratingCount": 239,
+    "rating": 2.5,
+    "category": "Go Walk",
+    "brand": "My Shooed",
+    "availableSizes": [41, 40, 43, 39, 45, 38, 42]
+  },
+  {
+    "id": 138,
+    "productName": "Track Hiker",
+    "price": 499.45,
+    "ratingCount": 593,
+    "rating": 2,
+    "category": "Man",
+    "brand": "Adidas",
+    "availableSizes": [42, 38, 41, 43]
+  },
+  {
+    "id": 139,
+    "productName": "Cloud Loafer",
+    "price": 619.99,
+    "ratingCount": 228,
+    "rating": 3,
+    "category": "Go Walk",
+    "brand": "Adidas",
+    "availableSizes": [40, 43, 42, 45, 41, 38]
+  },
+  {
+    "id": 140,
+    "productName": "Elite Runner",
+    "price": 862.04,
+    "ratingCount": 485,
+    "rating": 5,
+    "category": "Man",
+    "brand": "My Shooed",
+    "availableSizes": [44, 39, 42, 43, 41, 45, 38, 40]
+  },
+  {
+    "id": 141,
+    "productName": "Pro Shoe",
+    "price": 390.67,
+    "ratingCount": 481,
+    "rating": 5,
+    "category": "Kid",
+    "brand": "Nick",
+    "availableSizes": [38, 45, 42, 40, 44, 43, 39]
+  },
+  {
+    "id": 142,
+    "productName": "Runner Slip-On",
+    "price": 741.03,
+    "ratingCount": 317,
+    "rating": 2,
+    "category": "Kid",
+    "brand": "Nick",
+    "availableSizes": [43, 45, 40, 38, 39]
+  },
+  {
+    "id": 143,
+    "productName": "Track Loafer",
+    "price": 530.59,
+    "ratingCount": 239,
+    "rating": 5,
+    "category": "Outdoor",
+    "brand": "My Shooed",
+    "availableSizes": [43, 38, 41, 39, 40, 45]
+  },
+  {
+    "id": 144,
+    "productName": "Ultra Runner",
+    "price": 765.32,
+    "ratingCount": 291,
+    "rating": 4,
+    "category": "Outdoor",
+    "brand": "Adidas",
+    "availableSizes": [43, 41, 45, 39, 38, 40]
+  },
+  {
+    "id": 145,
+    "productName": "Runner Slip-On",
+    "price": 892.55,
+    "ratingCount": 969,
+    "rating": 3,
+    "category": "Rainbow",
+    "brand": "Florida Foxx",
+    "availableSizes": [38, 39, 41]
+  },
+  {
+    "id": 146,
+    "productName": "Ultra Trainer",
+    "price": 408.85,
+    "ratingCount": 577,
+    "rating": 2.5,
+    "category": "Kid",
+    "brand": "Nike",
+    "availableSizes": [45, 38, 41]
+  },
+  {
+    "id": 147,
+    "productName": "Speed Hiker",
+    "price": 441.18,
+    "ratingCount": 241,
+    "rating": 4.5,
+    "category": "Go Walk",
+    "brand": "Adidas",
+    "availableSizes": [45, 40, 42, 44]
+  },
+  {
+    "id": 148,
+    "productName": "Elite Slip-On",
+    "price": 231.68,
+    "ratingCount": 810,
+    "rating": 4,
+    "category": "Rainbow",
+    "brand": "Hummel",
+    "availableSizes": [38, 45, 42, 40, 44]
+  },
+  {
+    "id": 149,
+    "productName": "Zoom Hiker",
+    "price": 603.47,
+    "ratingCount": 98,
+    "rating": 2.5,
+    "category": "Outdoor",
+    "brand": "Nick",
+    "availableSizes": [42, 45, 38, 41]
+  },
+  {
+    "id": 150,
+    "productName": "Comfort Hiker",
+    "price": 222.93,
+    "ratingCount": 926,
+    "rating": 1.5,
+    "category": "Kid",
+    "brand": "My Shooed",
+    "availableSizes": [39, 44, 45, 38, 43]
+  },
+  {
+    "id": 151,
+    "productName": "Runner Slip-On",
+    "price": 905.22,
+    "ratingCount": 186,
+    "rating": 2,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [43, 38, 42, 41, 40, 39]
+  },
+  {
+    "id": 152,
+    "productName": "Cloud Runner",
+    "price": 656.38,
+    "ratingCount": 748,
+    "rating": 3.5,
+    "category": "Kid",
+    "brand": "Nike",
+    "availableSizes": [38, 42, 40, 39]
+  },
+  {
+    "id": 153,
+    "productName": "Runner Sneaker",
+    "price": 512.56,
+    "ratingCount": 582,
+    "rating": 2.5,
+    "category": "Woman",
+    "brand": "Hummel",
+    "availableSizes": [44, 45, 42, 40]
+  },
+  {
+    "id": 154,
+    "productName": "Track Sneaker",
+    "price": 958.42,
+    "ratingCount": 49,
+    "rating": 1,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [45, 40, 42, 39, 44, 41, 38, 43]
+  },
+  {
+    "id": 155,
+    "productName": "Elite Slip-On",
+    "price": 573.5,
+    "ratingCount": 130,
+    "rating": 2.5,
+    "category": "Rainbow",
+    "brand": "Hummel",
+    "availableSizes": [43, 45, 40, 44, 38, 41, 42, 39]
+  },
+  {
+    "id": 156,
+    "productName": "Track Hiker",
+    "price": 628.77,
+    "ratingCount": 900,
+    "rating": 3.5,
+    "category": "Outdoor",
+    "brand": "Lumberjack",
+    "availableSizes": [40, 39, 44, 45, 42]
+  },
+  {
+    "id": 157,
+    "productName": "Ultra Slip-On",
+    "price": 678.82,
+    "ratingCount": 217,
+    "rating": 2.5,
+    "category": "Man",
+    "brand": "Jacek & Co",
+    "availableSizes": [44, 40, 42, 45]
+  },
+  {
+    "id": 158,
+    "productName": "Ultra Slip-On",
+    "price": 883.63,
+    "ratingCount": 894,
+    "rating": 1,
+    "category": "Rainbow",
+    "brand": "Nick",
+    "availableSizes": [39, 38, 45, 41, 43, 44, 40, 42]
+  },
+  {
+    "id": 159,
+    "productName": "Runner Trainer",
+    "price": 743.15,
+    "ratingCount": 36,
+    "rating": 4,
+    "category": "Woman",
+    "brand": "Adidas",
+    "availableSizes": [40, 43, 41, 45, 38, 42]
+  },
+  {
+    "id": 160,
+    "productName": "Runner Runner",
+    "price": 246.89,
+    "ratingCount": 60,
+    "rating": 3.5,
+    "category": "Man",
+    "brand": "Nick",
+    "availableSizes": [45, 39, 40, 42, 44]
+  },
+  {
+    "id": 161,
+    "productName": "Track Loafer",
+    "price": 430.35,
+    "ratingCount": 895,
+    "rating": 1.5,
+    "category": "Man",
+    "brand": "Hummel",
+    "availableSizes": [38, 43, 40, 44, 41, 39, 42]
+  },
+  {
+    "id": 162,
+    "productName": "Ultra Sneaker",
+    "price": 454.74,
+    "ratingCount": 25,
+    "rating": 3.5,
+    "category": "Go Walk",
+    "brand": "Lumberjack",
+    "availableSizes": [42, 41, 40, 43]
+  },
+  {
+    "id": 163,
+    "productName": "Speed Trainer",
+    "price": 730.22,
+    "ratingCount": 378,
+    "rating": 3,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [38, 45, 39, 42, 44, 43, 40]
+  },
+  {
+    "id": 164,
+    "productName": "Cloud Shoe",
+    "price": 423.62,
+    "ratingCount": 283,
+    "rating": 3.5,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [39, 38, 44, 43, 42]
+  },
+  {
+    "id": 165,
+    "productName": "Elite Shoe",
+    "price": 363.82,
+    "ratingCount": 15,
+    "rating": 3.5,
+    "category": "Casual",
+    "brand": "My Shooed",
+    "availableSizes": [45, 43, 44, 42, 39]
+  },
+  {
+    "id": 166,
+    "productName": "Comfort Slip-On",
+    "price": 558.01,
+    "ratingCount": 944,
+    "rating": 4,
+    "category": "Rainbow",
+    "brand": "Lumberjack",
+    "availableSizes": [41, 39, 45, 42, 38, 44, 43]
+  },
+  {
+    "id": 167,
+    "productName": "Comfort Slip-On",
+    "price": 478.27,
+    "ratingCount": 200,
+    "rating": 3.5,
+    "category": "Man",
+    "brand": "Jacek & Co",
+    "availableSizes": [43, 44, 41, 40, 39]
+  },
+  {
+    "id": 168,
+    "productName": "Track Slip-On",
+    "price": 539.88,
+    "ratingCount": 889,
+    "rating": 1.5,
+    "category": "Go Walk",
+    "brand": "Jacek & Co",
+    "availableSizes": [45, 43, 39, 41, 38, 44]
+  },
+  {
+    "id": 169,
+    "productName": "Ultra Loafer",
+    "price": 853.08,
+    "ratingCount": 716,
+    "rating": 5,
+    "category": "Man",
+    "brand": "Lumberjack",
+    "availableSizes": [43, 39, 44]
+  },
+  {
+    "id": 170,
+    "productName": "Zoom Hiker",
+    "price": 370.98,
+    "ratingCount": 346,
+    "rating": 1,
+    "category": "Casual",
+    "brand": "Nike",
+    "availableSizes": [39, 45, 40, 38, 43, 42]
+  },
+  {
+    "id": 171,
+    "productName": "Ultra Loafer",
+    "price": 403.69,
+    "ratingCount": 517,
+    "rating": 3.5,
+    "category": "Kid",
+    "brand": "Hummel",
+    "availableSizes": [38, 41, 44, 42]
+  },
+  {
+    "id": 172,
+    "productName": "Cloud Loafer",
+    "price": 936.34,
+    "ratingCount": 259,
+    "rating": 1,
+    "category": "Outdoor",
+    "brand": "Nike",
+    "availableSizes": [40, 44, 45]
+  },
+  {
+    "id": 173,
+    "productName": "Track Shoe",
+    "price": 401.75,
+    "ratingCount": 399,
+    "rating": 4,
+    "category": "Sport",
+    "brand": "Nick",
+    "availableSizes": [45, 43, 40, 38, 41, 42, 44]
+  },
+  {
+    "id": 174,
+    "productName": "Track Trainer",
+    "price": 722.18,
+    "ratingCount": 600,
+    "rating": 4.5,
+    "category": "Man",
+    "brand": "Adidas",
+    "availableSizes": [42, 41, 39, 38, 45, 44, 43]
+  },
+  {
+    "id": 175,
+    "productName": "Elite Sneaker",
+    "price": 699.66,
+    "ratingCount": 250,
+    "rating": 2.5,
+    "category": "Sport",
+    "brand": "Nick",
+    "availableSizes": [41, 38, 43, 45, 39, 44, 40]
+  },
+  {
+    "id": 176,
+    "productName": "Pro Slip-On",
+    "price": 827.79,
+    "ratingCount": 973,
+    "rating": 5,
+    "category": "Woman",
+    "brand": "Nike",
+    "availableSizes": [39, 45, 38, 40, 41, 43]
+  },
+  {
+    "id": 177,
+    "productName": "Track Slip-On",
+    "price": 410.31,
+    "ratingCount": 213,
+    "rating": 2,
+    "category": "Casual",
+    "brand": "My Shooed",
+    "availableSizes": [40, 41, 42, 45, 38, 43]
+  },
+  {
+    "id": 178,
+    "productName": "Zoom Trainer",
+    "price": 320.5,
+    "ratingCount": 762,
+    "rating": 2,
+    "category": "Rainbow",
+    "brand": "Adidas",
+    "availableSizes": [38, 40, 41, 43, 44, 42, 45]
+  },
+  {
+    "id": 179,
+    "productName": "Ultra Trainer",
+    "price": 692.82,
+    "ratingCount": 246,
+    "rating": 3.5,
+    "category": "Outdoor",
+    "brand": "My Shooed",
+    "availableSizes": [43, 38, 44, 39, 42]
+  },
+  {
+    "id": 180,
+    "productName": "Speed Trainer",
+    "price": 252.33,
+    "ratingCount": 333,
+    "rating": 3.5,
+    "category": "Kid",
+    "brand": "Nick",
+    "availableSizes": [38, 39, 42, 40, 44]
+  },
+  {
+    "id": 181,
+    "productName": "Comfort Trainer",
+    "price": 251.21,
+    "ratingCount": 505,
+    "rating": 5,
+    "category": "Man",
+    "brand": "Florida Foxx",
+    "availableSizes": [41, 45, 42, 44, 43, 39, 40, 38]
+  },
+  {
+    "id": 182,
+    "productName": "Speed Shoe",
+    "price": 876.75,
+    "ratingCount": 89,
+    "rating": 2,
+    "category": "Go Walk",
+    "brand": "Nick",
+    "availableSizes": [39, 40, 41, 44, 43, 42]
+  },
+  {
+    "id": 183,
+    "productName": "Speed Shoe",
+    "price": 273.91,
+    "ratingCount": 356,
+    "rating": 3,
+    "category": "Rainbow",
+    "brand": "Hummel",
+    "availableSizes": [45, 43, 39, 40, 42, 44, 38]
+  },
+  {
+    "id": 184,
+    "productName": "Runner Trainer",
+    "price": 801.01,
+    "ratingCount": 654,
+    "rating": 2,
+    "category": "Woman",
+    "brand": "Adidas",
+    "availableSizes": [40, 41, 45, 38, 44, 43]
+  },
+  {
+    "id": 185,
+    "productName": "Comfort Slip-On",
+    "price": 759.46,
+    "ratingCount": 284,
+    "rating": 2.5,
+    "category": "Kid",
+    "brand": "Adidas",
+    "availableSizes": [39, 45, 38, 42, 43, 41]
+  },
+  {
+    "id": 186,
+    "productName": "Track Loafer",
+    "price": 844.77,
+    "ratingCount": 796,
+    "rating": 3.5,
+    "category": "Sport",
+    "brand": "Florida Foxx",
+    "availableSizes": [40, 39, 38]
+  },
+  {
+    "id": 187,
+    "productName": "Zoom Slip-On",
+    "price": 664.38,
+    "ratingCount": 138,
+    "rating": 3,
+    "category": "Woman",
+    "brand": "Hummel",
+    "availableSizes": [43, 40, 38, 39, 44]
+  },
+  {
+    "id": 188,
+    "productName": "Elite Runner",
+    "price": 816.11,
+    "ratingCount": 33,
+    "rating": 3.5,
+    "category": "Rainbow",
+    "brand": "Nick",
+    "availableSizes": [45, 44, 43, 41, 42]
+  },
+  {
+    "id": 189,
+    "productName": "Zoom Runner",
+    "price": 528.98,
+    "ratingCount": 614,
+    "rating": 3,
+    "category": "Outdoor",
+    "brand": "Nick",
+    "availableSizes": [45, 43, 39, 41, 44, 38]
+  },
+  {
+    "id": 190,
+    "productName": "Speed Slip-On",
+    "price": 907.05,
+    "ratingCount": 132,
+    "rating": 2.5,
+    "category": "Woman",
+    "brand": "Jacek & Co",
+    "availableSizes": [44, 42, 43, 41]
+  },
+  {
+    "id": 191,
+    "productName": "Elite Loafer",
+    "price": 424.32,
+    "ratingCount": 241,
+    "rating": 5,
+    "category": "Casual",
+    "brand": "Adidas",
+    "availableSizes": [43, 39, 40, 42, 44]
+  },
+  {
+    "id": 192,
+    "productName": "Pro Sneaker",
+    "price": 360.54,
+    "ratingCount": 939,
+    "rating": 4.5,
+    "category": "Sport",
+    "brand": "Lumberjack",
+    "availableSizes": [41, 40, 39, 44, 38, 42]
+  },
+  {
+    "id": 193,
+    "productName": "Zoom Shoe",
+    "price": 537.89,
+    "ratingCount": 392,
+    "rating": 1.5,
+    "category": "Woman",
+    "brand": "My Shooed",
+    "availableSizes": [43, 45, 44, 41]
+  },
+  {
+    "id": 194,
+    "productName": "Elite Shoe",
+    "price": 321.03,
+    "ratingCount": 480,
+    "rating": 4,
+    "category": "Kid",
+    "brand": "Nick",
+    "availableSizes": [38, 40, 41, 45, 39, 44]
+  },
+  {
+    "id": 195,
+    "productName": "Track Shoe",
+    "price": 221.4,
+    "ratingCount": 869,
+    "rating": 3.5,
+    "category": "Go Walk",
+    "brand": "Nike",
+    "availableSizes": [45, 44, 39, 43, 42]
+  },
+  {
+    "id": 196,
+    "productName": "Track Shoe",
+    "price": 976.47,
+    "ratingCount": 678,
+    "rating": 1,
+    "category": "Woman",
+    "brand": "Adidas",
+    "availableSizes": [40, 43, 42]
+  },
+  {
+    "id": 197,
+    "productName": "Runner Slip-On",
+    "price": 918.92,
+    "ratingCount": 554,
+    "rating": 3,
+    "category": "Casual",
+    "brand": "Adidas",
+    "availableSizes": [38, 39, 40, 44, 42, 41, 43, 45]
+  },
+  {
+    "id": 198,
+    "productName": "Comfort Trainer",
+    "price": 886.63,
+    "ratingCount": 673,
+    "rating": 1,
+    "category": "Outdoor",
+    "brand": "My Shooed",
+    "availableSizes": [45, 43, 40, 39, 38]
+  },
+  {
+    "id": 199,
+    "productName": "Cloud Hiker",
+    "price": 913.87,
+    "ratingCount": 633,
+    "rating": 2.5,
+    "category": "Sport",
+    "brand": "Jacek & Co",
+    "availableSizes": [39, 40, 43, 42, 38, 45]
+  },
+  {
+    "id": 200,
+    "productName": "Zoom Sneaker",
+    "price": 871.47,
+    "ratingCount": 501,
+    "rating": 5,
+    "category": "Casual",
+    "brand": "Florida Foxx",
+    "availableSizes": [39, 43, 45, 38, 42, 41, 40, 44]
+  },
+  {
+    "id": 201,
+    "productName": "Pro Shoe",
+    "price": 744.21,
+    "ratingCount": 35,
+    "rating": 4.5,
+    "category": "Sport",
+    "brand": "Florida Foxx",
+    "availableSizes": [44, 45, 42, 41, 43]
+  },
+  {
+    "id": 202,
+    "productName": "Zoom Shoe",
+    "price": 595.38,
+    "ratingCount": 797,
+    "rating": 1,
+    "category": "Go Walk",
+    "brand": "Nick",
+    "availableSizes": [38, 45, 40, 44, 41, 43]
+  },
+  {
+    "id": 203,
+    "productName": "Pro Shoe",
+    "price": 566.65,
+    "ratingCount": 579,
+    "rating": 2.5,
+    "category": "Rainbow",
+    "brand": "My Shooed",
+    "availableSizes": [40, 44, 38, 39, 41]
+  },
+  {
+    "id": 204,
+    "productName": "Speed Sneaker",
+    "price": 285.6,
+    "ratingCount": 700,
+    "rating": 4.5,
+    "category": "Woman",
+    "brand": "My Shooed",
+    "availableSizes": [44, 41, 38, 40, 45]
+  },
+  {
+    "id": 205,
+    "productName": "Runner Sneaker",
+    "price": 780.4,
+    "ratingCount": 772,
+    "rating": 4.5,
+    "category": "Rainbow",
+    "brand": "Lumberjack",
+    "availableSizes": [40, 39, 44]
+  },
+  {
+    "id": 206,
+    "productName": "Runner Runner",
+    "price": 267.48,
+    "ratingCount": 300,
+    "rating": 4.5,
+    "category": "Sport",
+    "brand": "Nick",
+    "availableSizes": [42, 41, 40, 39, 43, 38]
+  },
+  {
+    "id": 207,
+    "productName": "Elite Sneaker",
+    "price": 517.35,
+    "ratingCount": 477,
+    "rating": 5,
+    "category": "Casual",
+    "brand": "My Shooed",
+    "availableSizes": [44, 39, 42]
+  },
+  {
+    "id": 208,
+    "productName": "Comfort Loafer",
+    "price": 292.41,
+    "ratingCount": 455,
+    "rating": 2.5,
+    "category": "Sport",
+    "brand": "Hummel",
+    "availableSizes": [44, 43, 41, 45, 42, 38]
+  },
+  {
+    "id": 209,
+    "productName": "Speed Runner",
+    "price": 571.67,
+    "ratingCount": 205,
+    "rating": 3,
+    "category": "Go Walk",
+    "brand": "Jacek & Co",
+    "availableSizes": [41, 44, 39]
+  },
+  {
+    "id": 210,
+    "productName": "Runner Slip-On",
+    "price": 384.74,
+    "ratingCount": 173,
+    "rating": 4.5,
+    "category": "Go Walk",
+    "brand": "Nike",
+    "availableSizes": [44, 45, 42, 38, 43, 39, 41, 40]
+  },
+  {
+    "id": 211,
+    "productName": "Zoom Slip-On",
+    "price": 914.67,
+    "ratingCount": 466,
+    "rating": 4,
+    "category": "Go Walk",
+    "brand": "My Shooed",
+    "availableSizes": [44, 41, 38, 40]
+  },
+  {
+    "id": 212,
+    "productName": "Pro Loafer",
+    "price": 454.76,
+    "ratingCount": 163,
+    "rating": 2.5,
+    "category": "Woman",
+    "brand": "Adidas",
+    "availableSizes": [45, 43, 44, 39, 42, 40]
+  },
+  {
+    "id": 213,
+    "productName": "Elite Sneaker",
+    "price": 877.74,
+    "ratingCount": 11,
+    "rating": 3,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [41, 39, 40, 45]
+  },
+  {
+    "id": 214,
+    "productName": "Pro Slip-On",
+    "price": 501.59,
+    "ratingCount": 509,
+    "rating": 4,
+    "category": "Woman",
+    "brand": "Jacek & Co",
+    "availableSizes": [45, 40, 41]
+  },
+  {
+    "id": 215,
+    "productName": "Ultra Slip-On",
+    "price": 660.09,
+    "ratingCount": 103,
+    "rating": 4,
+    "category": "Man",
+    "brand": "Nike",
+    "availableSizes": [41, 43, 38, 40, 39, 44]
+  },
+  {
+    "id": 216,
+    "productName": "Comfort Runner",
+    "price": 394.96,
+    "ratingCount": 419,
+    "rating": 1.5,
+    "category": "Sport",
+    "brand": "Nick",
+    "availableSizes": [43, 45, 40, 42]
+  },
+  {
+    "id": 217,
+    "productName": "Speed Loafer",
+    "price": 298.51,
+    "ratingCount": 248,
+    "rating": 2,
+    "category": "Woman",
+    "brand": "Nick",
+    "availableSizes": [39, 42, 44]
+  },
+  {
+    "id": 218,
+    "productName": "Cloud Loafer",
+    "price": 986.72,
+    "ratingCount": 855,
+    "rating": 1.5,
+    "category": "Rainbow",
+    "brand": "My Shooed",
+    "availableSizes": [40, 43, 42]
+  },
+  {
+    "id": 219,
+    "productName": "Speed Loafer",
+    "price": 340.31,
+    "ratingCount": 272,
+    "rating": 2.5,
+    "category": "Outdoor",
+    "brand": "Hummel",
+    "availableSizes": [40, 42, 43, 41, 44, 38, 45, 39]
+  },
+  {
+    "id": 220,
+    "productName": "Cloud Loafer",
+    "price": 456.41,
+    "ratingCount": 777,
+    "rating": 1.5,
+    "category": "Woman",
+    "brand": "Lumberjack",
+    "availableSizes": [41, 39, 44, 40, 43, 38, 45]
+  },
+  {
+    "id": 221,
+    "productName": "Ultra Shoe",
+    "price": 726.95,
+    "ratingCount": 302,
+    "rating": 4,
+    "category": "Outdoor",
+    "brand": "Jacek & Co",
+    "availableSizes": [40, 43, 38]
+  },
+  {
+    "id": 222,
+    "productName": "Comfort Loafer",
+    "price": 628.12,
+    "ratingCount": 721,
+    "rating": 4,
+    "category": "Woman",
+    "brand": "Florida Foxx",
+    "availableSizes": [40, 39, 44, 41]
+  },
+  {
+    "id": 223,
+    "productName": "Cloud Slip-On",
+    "price": 386.22,
+    "ratingCount": 735,
+    "rating": 3.5,
+    "category": "Rainbow",
+    "brand": "My Shooed",
+    "availableSizes": [43, 40, 45, 41]
+  },
+  {
+    "id": 224,
+    "productName": "Ultra Loafer",
+    "price": 770.43,
+    "ratingCount": 835,
+    "rating": 5,
+    "category": "Outdoor",
+    "brand": "Adidas",
+    "availableSizes": [40, 45, 43, 41, 38, 44, 39, 42]
+  },
+  {
+    "id": 225,
+    "productName": "Ultra Hiker",
+    "price": 559.84,
+    "ratingCount": 153,
+    "rating": 2.5,
+    "category": "Man",
+    "brand": "My Shooed",
+    "availableSizes": [40, 43, 41, 42, 38, 39, 45]
+  },
+  {
+    "id": 226,
+    "productName": "Cloud Shoe",
+    "price": 769.56,
+    "ratingCount": 227,
+    "rating": 1.5,
+    "category": "Casual",
+    "brand": "Nick",
+    "availableSizes": [42, 40, 39]
+  },
+  {
+    "id": 227,
+    "productName": "Cloud Hiker",
+    "price": 257.2,
+    "ratingCount": 574,
+    "rating": 3,
+    "category": "Sport",
+    "brand": "Nick",
+    "availableSizes": [41, 38, 40, 45, 44, 42, 43]
+  },
+  {
+    "id": 228,
+    "productName": "Speed Runner",
+    "price": 407.51,
+    "ratingCount": 965,
+    "rating": 4.5,
+    "category": "Casual",
+    "brand": "Hummel",
+    "availableSizes": [39, 41, 40, 43]
+  },
+  {
+    "id": 229,
+    "productName": "Runner Shoe",
+    "price": 726.43,
+    "ratingCount": 194,
+    "rating": 2.5,
+    "category": "Man",
+    "brand": "Nike",
+    "availableSizes": [44, 40, 45, 41, 39]
+  },
+  {
+    "id": 230,
+    "productName": "Pro Trainer",
+    "price": 832.05,
+    "ratingCount": 249,
+    "rating": 5,
+    "category": "Man",
+    "brand": "Hummel",
+    "availableSizes": [43, 38, 45, 42]
+  }
+]
