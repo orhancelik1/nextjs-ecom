@@ -51,7 +51,7 @@ const Sidebar = () => {
   }, []);
 
   return (
-    <Card className="border-card-bg bg-white">
+    <Card className="border-card-bg bg-white sidebar-wrapper">
       <Card.Body className="text-filter-color">
         <Form>
           <Form.Group>

@@ -1,14 +1,15 @@
 import { useEffect, useState } from "react";
 import { Form } from "react-bootstrap";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
 import useDebounce from "@/hooks/useDebounce";
 import { useCreateQueryString } from "@/hooks/useCreateQueryString";
-import { usePathname, useRouter } from "next/navigation";
 
 const RangeSlider = () => {
   const [priceValue, setPriceValue] = useState(400);
   const debouncedValue = useDebounce(priceValue, 500);
 
+  const searchParams = useSearchParams();
   const router = useRouter();
   const createQueryString = useCreateQueryString();
   const pathname = usePathname();
@@ -22,6 +23,8 @@ const RangeSlider = () => {
       pathname + "?" + createQueryString("price", String(priceValue))
     );
   }, [debouncedValue]);
+
+  const priceQuery = searchParams.get("price");
 
   return (
     <Form.Group>
