@@ -133,3 +133,27 @@
   top: 32px;
   margin-bottom: 48px;
 }
+.accordion-item {
+  border: none;
+}
+.accordion-button {
+  background-color: unset;
+  padding: unset;
+  &:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  &:not(.collapsed) {
+    background-color: unset;
+    box-shadow: unset;
+  }
+}
+.accordion-body {
+  padding-left: unset;
+  padding-right: unset;
+}
+.accordion-header {
+  & .form-label {
+    margin-bottom: 0px;
+  }
+}
